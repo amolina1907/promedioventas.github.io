@@ -1,1 +1,2 @@
 # promedioventas.github.io
+En su labor como programador de software ha sido elegido para el desarrollo de una aplicación que necesita un administrador de una tienda, que desea calcular el promedio de 3 (tres) vendedores , respecto a su venta mensual  y se desea  calcular  el promedio general de ventas Como información básica de cada vendedor  se debe registrar el número de identificación, su nombre y venta  realizada.
